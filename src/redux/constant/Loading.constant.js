@@ -1,0 +1,2 @@
+export const SHOW_LOADING = 'SHOW_LOADING';
+export const SET_LOADING_PAGE = 'SET_LOADING_PAGE';
